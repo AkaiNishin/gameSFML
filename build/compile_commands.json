@@ -1,0 +1,236 @@
+[
+{
+  "directory": "/home/akai/Documents/Programming/game/build",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/mGame.dir/main.cpp.o -c /home/akai/Documents/Programming/game/main.cpp",
+  "file": "/home/akai/Documents/Programming/game/main.cpp",
+  "output": "CMakeFiles/mGame.dir/main.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Aircraft.cpp.o -c /home/akai/Documents/Programming/game/Source/Aircraft.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Aircraft.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Aircraft.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Animation.cpp.o -c /home/akai/Documents/Programming/game/Source/Animation.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Animation.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Animation.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Application.cpp.o -c /home/akai/Documents/Programming/game/Source/Application.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Application.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Application.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Button.cpp.o -c /home/akai/Documents/Programming/game/Source/Button.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Button.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Button.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/BloomEffect.cpp.o -c /home/akai/Documents/Programming/game/Source/BloomEffect.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/BloomEffect.cpp",
+  "output": "Source/CMakeFiles/sources.dir/BloomEffect.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Command.cpp.o -c /home/akai/Documents/Programming/game/Source/Command.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Command.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Command.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/CommandQueue.cpp.o -c /home/akai/Documents/Programming/game/Source/CommandQueue.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/CommandQueue.cpp",
+  "output": "Source/CMakeFiles/sources.dir/CommandQueue.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Component.cpp.o -c /home/akai/Documents/Programming/game/Source/Component.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Component.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Component.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Container.cpp.o -c /home/akai/Documents/Programming/game/Source/Container.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Container.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Container.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/DataTables.cpp.o -c /home/akai/Documents/Programming/game/Source/DataTables.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/DataTables.cpp",
+  "output": "Source/CMakeFiles/sources.dir/DataTables.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/EmitterNode.cpp.o -c /home/akai/Documents/Programming/game/Source/EmitterNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/EmitterNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/EmitterNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Entity.cpp.o -c /home/akai/Documents/Programming/game/Source/Entity.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Entity.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Entity.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/GameOverState.cpp.o -c /home/akai/Documents/Programming/game/Source/GameOverState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/GameOverState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/GameOverState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/GameServer.cpp.o -c /home/akai/Documents/Programming/game/Source/GameServer.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/GameServer.cpp",
+  "output": "Source/CMakeFiles/sources.dir/GameServer.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/GameState.cpp.o -c /home/akai/Documents/Programming/game/Source/GameState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/GameState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/GameState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/KeyBinding.cpp.o -c /home/akai/Documents/Programming/game/Source/KeyBinding.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/KeyBinding.cpp",
+  "output": "Source/CMakeFiles/sources.dir/KeyBinding.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Label.cpp.o -c /home/akai/Documents/Programming/game/Source/Label.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Label.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Label.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/MenuState.cpp.o -c /home/akai/Documents/Programming/game/Source/MenuState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/MenuState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/MenuState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/MultiplayerGameState.cpp.o -c /home/akai/Documents/Programming/game/Source/MultiplayerGameState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/MultiplayerGameState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/MultiplayerGameState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/MusicPlayer.cpp.o -c /home/akai/Documents/Programming/game/Source/MusicPlayer.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/MusicPlayer.cpp",
+  "output": "Source/CMakeFiles/sources.dir/MusicPlayer.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/NetworkNode.cpp.o -c /home/akai/Documents/Programming/game/Source/NetworkNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/NetworkNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/NetworkNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/PauseState.cpp.o -c /home/akai/Documents/Programming/game/Source/PauseState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/PauseState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/PauseState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/ParticleNode.cpp.o -c /home/akai/Documents/Programming/game/Source/ParticleNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/ParticleNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/ParticleNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Pickup.cpp.o -c /home/akai/Documents/Programming/game/Source/Pickup.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Pickup.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Pickup.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Player.cpp.o -c /home/akai/Documents/Programming/game/Source/Player.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Player.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Player.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/PostEffect.cpp.o -c /home/akai/Documents/Programming/game/Source/PostEffect.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/PostEffect.cpp",
+  "output": "Source/CMakeFiles/sources.dir/PostEffect.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Projectile.cpp.o -c /home/akai/Documents/Programming/game/Source/Projectile.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Projectile.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Projectile.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/SceneNode.cpp.o -c /home/akai/Documents/Programming/game/Source/SceneNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/SceneNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/SceneNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/SettingsState.cpp.o -c /home/akai/Documents/Programming/game/Source/SettingsState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/SettingsState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/SettingsState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/SpriteNode.cpp.o -c /home/akai/Documents/Programming/game/Source/SpriteNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/SpriteNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/SpriteNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/TextNode.cpp.o -c /home/akai/Documents/Programming/game/Source/TextNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/TextNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/TextNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/SoundNode.cpp.o -c /home/akai/Documents/Programming/game/Source/SoundNode.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/SoundNode.cpp",
+  "output": "Source/CMakeFiles/sources.dir/SoundNode.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/SoundPlayer.cpp.o -c /home/akai/Documents/Programming/game/Source/SoundPlayer.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/SoundPlayer.cpp",
+  "output": "Source/CMakeFiles/sources.dir/SoundPlayer.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/State.cpp.o -c /home/akai/Documents/Programming/game/Source/State.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/State.cpp",
+  "output": "Source/CMakeFiles/sources.dir/State.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/StateStack.cpp.o -c /home/akai/Documents/Programming/game/Source/StateStack.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/StateStack.cpp",
+  "output": "Source/CMakeFiles/sources.dir/StateStack.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/TitleState.cpp.o -c /home/akai/Documents/Programming/game/Source/TitleState.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/TitleState.cpp",
+  "output": "Source/CMakeFiles/sources.dir/TitleState.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/Utility.cpp.o -c /home/akai/Documents/Programming/game/Source/Utility.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/Utility.cpp",
+  "output": "Source/CMakeFiles/sources.dir/Utility.cpp.o"
+},
+{
+  "directory": "/home/akai/Documents/Programming/game/build/Source",
+  "command": "/usr/bin/c++  -I/home/akai/Documents/Programming/game/Include -std=gnu++20 -o CMakeFiles/sources.dir/World.cpp.o -c /home/akai/Documents/Programming/game/Source/World.cpp",
+  "file": "/home/akai/Documents/Programming/game/Source/World.cpp",
+  "output": "Source/CMakeFiles/sources.dir/World.cpp.o"
+}
+]

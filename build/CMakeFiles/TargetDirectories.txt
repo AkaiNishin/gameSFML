@@ -1,0 +1,6 @@
+/home/akai/Documents/Programming/game/build/CMakeFiles/mGame.dir
+/home/akai/Documents/Programming/game/build/CMakeFiles/edit_cache.dir
+/home/akai/Documents/Programming/game/build/CMakeFiles/rebuild_cache.dir
+/home/akai/Documents/Programming/game/build/Source/CMakeFiles/sources.dir
+/home/akai/Documents/Programming/game/build/Source/CMakeFiles/edit_cache.dir
+/home/akai/Documents/Programming/game/build/Source/CMakeFiles/rebuild_cache.dir
